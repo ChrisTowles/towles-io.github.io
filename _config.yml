@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
+title: "Towles IO"
+description: "A short description of your site's purpose"
+show_downloads: false
