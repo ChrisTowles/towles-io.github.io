@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 title: "Towles IO"
 description: "The apps written with the technology we want to use."
 show_downloads: false
+
+github:
+  is_project_page: false
