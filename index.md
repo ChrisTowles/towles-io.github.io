@@ -5,6 +5,4 @@ We are twin brothers that have worked in System Administration, Full Stack Devel
 ## Currnet Apps
 Right Angled Triangle Solver
 
-
-![{{ site.url }}/assets/img/google-play-badge.png](https://play.google.com/store/apps/details?id=com.ChrisTowles.RightAngledTriangleSolver)
-
+[<img src="{{ site.url }}/assets/img/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.ChrisTowles.RightAngledTriangleSolver)
