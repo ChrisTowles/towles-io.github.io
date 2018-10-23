@@ -1,3 +1,8 @@
+<!-- Note: App got removed because it didn't have.
+
+Created By https://app-privacy-policy-generator.firebaseapp.com/# -->
+
+
 ## Privacy Policy
 
 built the Right Angle Triangle Solver app as an Ad Supported app. This SERVICE is provided by at no cost and is intended for use as is.
