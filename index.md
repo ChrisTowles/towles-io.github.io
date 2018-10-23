@@ -8,6 +8,8 @@ We are twin brothers that have worked in System Administration, Full Stack Devel
 
 [<img style="width: 300px" src="{{ site.url }}/assets/img/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.ChrisTowles.RightAngledTriangleSolver)
 
+[<a href="./app_docs/right_angled_triangle_solver/privacy_policy.md">Privacy Policy</a>]
+
 
 ### Hangman
 
